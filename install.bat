@@ -32,6 +32,6 @@ echo Installing dependencies...
 %PYTHON% -m pip install pip==24.0
 %PYTHON% -m pip install -r requirements.txt
 
-%PYTHON% app.py %*
+%PYTHON% main.py %*
 
 pause

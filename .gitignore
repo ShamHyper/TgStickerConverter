@@ -5,6 +5,7 @@ pycache/
 cache/
 .ruff_cache/
 tmp/
+frames/
 
 *.png
 *.jpg

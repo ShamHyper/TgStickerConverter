@@ -1,3 +1,2 @@
-pylottie==0.2.0
-Pillow==10.1.0
-moviepy==1.0.3
+pylottie==2024
+Pillow==10.2.0

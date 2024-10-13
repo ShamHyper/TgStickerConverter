@@ -26,6 +26,6 @@ set PYTHON=%VENV_DIR%\Scripts\python.exe
 
 call "%VENV_DIR%\Scripts\activate"
 
-%PYTHON% app.py %*
+%PYTHON% main.py %*
 
 pause
